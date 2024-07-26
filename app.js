@@ -8,5 +8,5 @@ let chute = prompt('Escolha um número entre 1 e 50');
 if (chute == numeroSecreto) {
  alert('acerto ta sabido');
 } else {
-alert('Mó burro :(')
+alert('Geral achou paia :(')
 }
